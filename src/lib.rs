@@ -3,8 +3,8 @@ use wasm_bindgen::JsValue;
 
 #[derive(serde::Serialize)]
 struct Person {
-    pub name: String,
-    pub surname: String,
+    name: String,
+    surname: String,
     age: i32,
 }
 
