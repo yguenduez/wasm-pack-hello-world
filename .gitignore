@@ -4,3 +4,6 @@
 #Nodejs
 /node_modules
 
+#JetBrains
+.idea
+
